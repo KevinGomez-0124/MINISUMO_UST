@@ -1,0 +1,7 @@
+main.c:183:6:SystemClock_Config	96	static
+main.c:126:5:main	48	static
+main.c:312:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:323:6:led1_process	8	static
+main.c:343:6:boton1_process	16	static
+main.c:368:6:CDC_Receive_Callback	0	static
+main.c:379:6:Error_Handler	0	static
